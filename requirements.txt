@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-aiosqlite
-alembic
-pytest
-pytest-asyncio
-mockredis
-python-dotenv
